@@ -1,0 +1,1 @@
+# ricardo_lopes_exerciciostpsi0226
