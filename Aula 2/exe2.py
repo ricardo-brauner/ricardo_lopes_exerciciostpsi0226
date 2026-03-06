@@ -1,4 +1,4 @@
-nota = int(input("Digite a nota (0-100): "))
+nota = int(input("Digite a nota entre 0 e 100: "))
 
 if nota >= 90:
     print("Excelente")
